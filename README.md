@@ -1,3 +1,6 @@
+⚠️ Since [Steve Cook](https://github.com/snark) has re-updated his code, I'm not updating this app anymore ; please find the original (and now more recent) release here: https://snark.github.io/jumpcut/
+-------------
+
 Jumpcut
 =======
 
